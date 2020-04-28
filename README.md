@@ -1,3 +1,14 @@
+二维码的
+
+
+今天给大家分享六合一一键脚本供大家参考
+
+支持平台：
+*Debian 9、10
+Ubuntu 16.04 、18.04、19.10
+Centos 7、8
+*
+
 # jeannie感谢大佬JeannieStudio的无私奉献 *Debian 9、10 Ubuntu 16.04 、18.04、19.10 Centos 7、8 *
 
 准备 1.一个域名，推荐namesio(便宜，续费费用不会增加) 2.购买vps，以谷歌云为例
